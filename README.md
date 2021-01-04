@@ -1,6 +1,6 @@
 # Growth-arrest characterization
 
-This folder contains all required files for the analysis of multi-omics data of growth-arrest Synechocystis strains . 
+This folder contains all required files for the analysis of multi-omics data of growth-arrest Synechocystis lactate-producing strains . 
 
 
 ### Contents
@@ -18,7 +18,7 @@ Raw RNAseq data are processed as described below:
 
 2. Reads are tabulated and DESeq2 is applied to calculate significance level and fold-change values.
 
-#link to shell command
+#instructions and link to shell command
 
 
 <a name="proteomics"></a>
